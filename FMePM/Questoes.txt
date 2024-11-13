@@ -1,0 +1,22 @@
+FM e PM. Definições e análise do sinal no domínio do tempo-frequência
+
+1. Defina índice de modulação FM e PM
+
+2. Estabeleça o critério para se ter modulação angular de banda estreita e de banda larga
+
+3. Discuta a definição de largura de banda em modulação angular e compare com a largura de banda AM.
+
+4. Calcule/determine o Espectro do sinal FM modulado por um tom cossenoidal de freq. \omega_m e amplitude A_m. Adote frequência da portadora \omega_f e amplitude A_c.
+
+5. Resolva o exercício no. 8 da Lista de Exercícios FM ao final das notas de aula (slides) da Unidade Modulação Analógica (FM e PM), reproduzida a seguir:
+Seja o modulador FM de banda estreita da figura 66.
+(a) (1,5) Obtenha analiticamente a partir da expressão geral do sinal modulado s (t) = Re [g (t) ejωct] o espectro do sinal modulado. Admita sinal modulante genérico, m(t), e a expansão de Taylor para e^x ≈1+x+x^2/2! +x^3/3! +... para  −∞ < x < ∞ 
+(b)  (0,5) A partir de s (t), justifique analiticamente a existência de uma modulação AM residual indesejada
+(c)  a partir de que valor de β o sinal não pode ser considerado NBFM ou NBPM. Justifique
+analiticamente sua resposta.
+
+
+6. Um sinal modulante periódico do tipo onda triangular de valore DC igual a zero, valor de pico de 2V e período Tm = 5 ms modula um modulador FM de banda estreita (NBFM), tal que o desvio de fase máximo seja de 4 [graus]. Determine:
+a) Desvio de frequência de pico
+b) o espectro do sinal modulado a partir da análise de banda estreita. Assuma frequencia da portadora de 15 MHz 
+c) Defina o critério que permite identificarmos se o modulador é banda estreita (NMFM) ou banda larga (WBFM).

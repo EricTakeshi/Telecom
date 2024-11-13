@@ -1,0 +1,21 @@
+1. AM. A FCC americana taxa as operadoras de radiodifusão AM utilizando a potência média da portadora. Supondo que um transmissor AM com potência Pam = 15kW esteja alimentando uma carga de 75 Ω. Obtenha:
+a) Amplitude de pico da portadora na ausência de modulação. 
+Considere agora o caso do transmissor modulado por um tom de teste de 1KHz com ι% =100%, determine:
+b) Amplitude Máxima do sinal AM e Potência de pico da envoltória complexa
+c) potência total média (portadora + bandas laterais) 
+d) Eficiência da modulação AM.
+
+
+2. AM/SC. Um sinal AM DSB-SC é modulado por um sinal modulante m(t) = cos ω1t + 2 cos 2ω1t, sendo ω1 = 2πf1, com f1 = 500Hz, e Ac =2V.
+(a) Escreva uma expressão para o sinal DSB-SC no domínio do tempo;
+(b) Esboce o sinal AM DSB-SC e o seu respectivo espectro (módulo) dessa forma de onda. 
+(c) Encontre o valor da potência média normalizada (Zload normalizado = 1Ω).
+(d) Encontre o valor do PEP (normalizada).
+
+
+3. AM-SSB.Um transmissor AM-SSB é modulado com uma senóide m(t) = 5 cos ω1t, onde ω1 = 2πf1, com f1 =500Hz e Ac = 1.
+(a) Avalie a transformada de Hilbert de m(t), i.e., \hat{m}(t)
+(b) Encontre a expressão para um sinal L-SSB,
+(c) Encontre o valor RMS do sinal H-SSB.
+(d) Encontre a potência média normalizada do sinal L-SSB. 
+(e) Encontre o PEP normalizada do sinal H-SSB.
